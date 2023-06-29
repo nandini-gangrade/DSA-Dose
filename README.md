@@ -9,9 +9,7 @@
 
 <table>
   <thead>
-    <tr>
       <th>Two Pointers:</th>
-    </tr>
   </thead>
   <tbody>
     <td>
