@@ -10,14 +10,12 @@
 <table>
   <thead>
     <tr>
-      <th>Column 1 Header</th>
-      <th>Column 2 Header</th>
+      <th>Two Pointers:</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Row 1, Col 1</td>
-      <td>Row 1, Col 2</td>
+      <a href="https://leetcode.com/problems/is-subsequence/solutions/3697579/easy-solution-two-pointers-beats-100-0ms-google/">392. Is Subsequence</a>
     </tr>
     <tr>
       <td>Row 2, Col 1</td>
