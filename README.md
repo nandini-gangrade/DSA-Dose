@@ -1,4 +1,4 @@
-### Leetcode DSA Dose
+### Leetcode Solutions
 <table>
     <th>Two Pointers:</th>
     <td><a href="https://leetcode.com/problems/is-subsequence/solutions/3697579/easy-solution-two-pointers-beats-100-0ms-google/">392. Is Subsequence</a></td>
